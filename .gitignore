@@ -1,1 +1,26 @@
-.DS_Store pycache/ .ipynb_checkpoints/ .vscode/
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+env/
+.venv/
+venv/
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Data archives, system files
+*.zip
+*.tar.gz
+*.sqlite
