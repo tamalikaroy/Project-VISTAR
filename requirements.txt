@@ -1,0 +1,21 @@
+# Project-VISTAR Python requirements
+# Colab note:
+# - Google Colab already includes many of these packages.
+# - To install (or ensure latest versions) in Colab run:
+#     !pip install -q -r https://raw.githubusercontent.com/tamalikaroy/Project-VISTAR/main/requirements.txt
+#
+# If running locally:
+#     pip install -r requirements.txt
+
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+regex
+scipy
+jupyter
+nbstripout
+
+# Optional (only install if needed)
+# google-colab
