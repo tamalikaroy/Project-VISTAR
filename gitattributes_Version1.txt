@@ -1,0 +1,4 @@
+# Treat notebooks as text for better diffs (requires nbstripout or other tools)
+*.ipynb text
+# CSVs are text files
+*.csv text
